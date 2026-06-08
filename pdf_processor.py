@@ -1,6 +1,7 @@
 """
 PDF Processor — document-intelligence-pipeline
 Handles ingestion, text extraction, and intelligent chunking of large PDF documents.
+This is core feature
 """
 
 import re
