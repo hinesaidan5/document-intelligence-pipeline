@@ -1,0 +1,23 @@
+# Core
+fastapi==0.115.0
+uvicorn==0.30.6
+python-multipart==0.0.9
+pydantic==2.8.2
+
+# PDF processing
+pdfplumber==0.11.4
+
+# Vector DB
+chromadb==0.5.15
+
+# LLM / RAG
+llama-index==0.11.6
+llama-index-vector-stores-chroma==0.2.0
+anthropic==0.34.2
+
+# Entity extraction
+spacy==3.7.6
+
+# Testing
+pytest==8.3.3
+reportlab==4.2.2
